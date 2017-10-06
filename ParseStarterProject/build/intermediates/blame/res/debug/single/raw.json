@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\5e61efc99d53ac4122ca6c85f3c4298ea78c07c1\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\5e61efc99d53ac4122ca6c85f3c4298ea78c07c1\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.4.0\\res\\raw\\gtm_analytics"
+    }
+]

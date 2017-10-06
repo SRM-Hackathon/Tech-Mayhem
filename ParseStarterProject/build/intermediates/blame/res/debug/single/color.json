@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\10cc5946693dbcec0ad0730e43d6938b55d54eb1\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\520dda7c710a40697590ec6ccbd4e2895eb56354\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\10cc5946693dbcec0ad0730e43d6938b55d54eb1\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\520dda7c710a40697590ec6ccbd4e2895eb56354\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\520dda7c710a40697590ec6ccbd4e2895eb56354\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\10cc5946693dbcec0ad0730e43d6938b55d54eb1\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\10cc5946693dbcec0ad0730e43d6938b55d54eb1\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.4.0\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\520dda7c710a40697590ec6ccbd4e2895eb56354\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.4.0\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\10cc5946693dbcec0ad0730e43d6938b55d54eb1\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\10cc5946693dbcec0ad0730e43d6938b55d54eb1\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\10cc5946693dbcec0ad0730e43d6938b55d54eb1\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\10cc5946693dbcec0ad0730e43d6938b55d54eb1\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyum Agrawal\\Desktop\\PROJECTS\\HungerX\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Priyum Agrawal\\.android\\build-cache\\919b5d9233bc23a494ad281b572892151d89e316\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

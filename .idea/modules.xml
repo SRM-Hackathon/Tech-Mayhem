@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApplication2.iml" filepath="$PROJECT_DIR$/MyApplication2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HungerX.iml" filepath="$PROJECT_DIR$/HungerX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" />
     </modules>
   </component>
 </project>
